@@ -70,7 +70,7 @@ Software distributed here must
 
 ## Contributing
 
-Contributions are welcome! If you have a pipeline to add or improvements to suggest, please follow these steps:
+Contributions are welcome! If you have a pipeline or muscle-imaging tool to add, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b new-branch`).
