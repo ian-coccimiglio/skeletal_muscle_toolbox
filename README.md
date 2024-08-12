@@ -1,7 +1,5 @@
 # Skeletal Muscle Imaging Tools
-Distributing macros for scientific skeletal muscle imaging in ImageJ and Fiji.
-
-This repository consolidates various skeletal muscle imaging pipelines from published literature. 
+Distributing tools for scientific skeletal muscle imaging in ImageJ and Fiji.
 
 ## Table of Contents
 
@@ -13,6 +11,8 @@ This repository consolidates various skeletal muscle imaging pipelines from publ
 ## Introduction
 
 This resource serves to gather, distribute, and document pipelines amd tools relating to skeletal muscle imaging, particularly those that operate within FIJI and ImageJ.
+
+The main goal is to provide all the plugins in one repository, such that users can download all or part of them.
 
 If you use any of the tools in this toolbox, remember to cite the original author using the table below!
 
@@ -33,10 +33,10 @@ If you use any of the tools in this toolbox, remember to cite the original autho
 
 ## Pipeline Feature Comparison
 
-| Feature                | FT     | CN     | PN     | CSA     | FER     | CAP     | SAT     | VES     |
+| Feature                | FT     | NUC    | MEAS   | VAS     | SAT     | FLUOR   | H&E     | ML/DL   |
 |------------------------|--------|--------|--------|---------|---------|---------|---------|---------|
-| TrueFAD                |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
-| MuscleJ2               |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
+| TrueFAD                | ✅     |&#9744; | ✅      | &#9744; | &#9744; | ✅      | &#9744; | ✅      |
+| MuscleJ2               | ✅     | ✅     | ✅      | ✅       | ✅      | ✅      | &#9744; | &#9744; |
 | LabelsToROIs           |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
 | MyoSight               |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
 | Myosoft                |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
@@ -47,14 +47,14 @@ If you use any of the tools in this toolbox, remember to cite the original autho
 | Bonilla                |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
 
 Abbreviations:
-FT: Skeletal Muscle Fiber-Typing
-CN: Central Nucleation
-PN: Peri Nucleation
-CSA: Cross-sectional Area
-FER: Feret
-CAP: Capillaries Measurement
-SAT: Satellite Cells
-VES: Vessel Identification
+- FT   : Provides Fiber-Typing
+- NUC  : Provides Fiber Nucleation (Central/Peripheral)
+- MEAS  : Morphological measures (CSA/Feret)
+- VAS  : Can annotate capillaries/vasculature
+- SAT  : Can annotate satellite cells
+- FLUOR : Compatible with fluorescence imaging
+- H&E   : Compatible with H&E staining
+- ML/DL : Machine/Deep Learning
 
 ## Criteria
 Software referenced here must:
@@ -64,8 +64,8 @@ Software referenced here must:
 4) Be publically accessible.
 
 Software distributed here must
-1) Software is licensed appropriately
-2) Software is open-source
+1) Be licensed appropriately for redistribution
+2) Be open-source
 
 ## Contributing
 
