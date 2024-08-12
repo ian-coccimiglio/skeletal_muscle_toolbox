@@ -81,4 +81,3 @@ Contributions are welcome! If you have a pipeline or muscle-imaging tool to add,
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Please ensure that you comply with the licenses of the individual pipelines included in this repository.
-
