@@ -18,7 +18,7 @@ If you DO use any of the tools in this toolbox, remember to cite the original au
 
 ## Pipelines
 
-| Pipeline Name and Publication | Description | Source-code | Citation + DOI | License | Distributed with Muscle_Imaging_Tools | 
+| Pipeline Name and Publication | Description | Source-code | Citation + DOI | License | Distributed with Skeletal_Muscle_Toolbox | 
 |-------------------------------|--------------|------------|----------------|---------|---------------------------------------|
 | [TrueFAD](https://www.nature.com/articles/s41598-024-53658-0) | Modern fully-automated end-to-end deep-learning pipeline for histology and myotube measurement | [GitHub](https://github.com/AurBrun/TRUEFAD?tab=readme-ov-file) | [Brun et al., 2024](https://doi.org/10.1038/s41598-024-53658-0) | [GPL3](https://github.com/AurBrun/TRUEFAD/blob/main/LICENSE) | Yes |
 | [MuscleJ2](https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-023-00323-1#citeas)    | Modern fully-automated end-to-end pipeline supporting a variety of outputs | [GitHub](https://github.com/ADanckaert/MuscleJ2/tree/Plugin) | [Danckaert et al., 2023](https://doi.org/10.1186/s13395-023-00323-1) |  Unrestricted use, CC0 as per journal |
