@@ -5,22 +5,22 @@ This repository consolidates various skeletal muscle imaging pipelines from publ
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Pipelines](#pipelines)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#Introduction)
+- [Pipelines](#Pipelines)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ## Introduction
 
-Skeletal muscle imaging is a critical area of research with numerous applications in medical diagnostics, sports science, and rehabilitation. 
+This resource serves to gather, distribute, and document pipelines relating to skeletal muscle imaging, particularly those that operate within FIJI and ImageJ.
 
-This repository aims to gather and document pipelines relating to skeletal muscle imaging, particularly those that operate within FIJI and ImageJ.
+Software referenced here must:
+1) Provide functionality for skeletal muscle imaging
+2) Be in the form of a macro, script, or ImageJ/FIJI plugin
+3) Operate within the FIJI/ImageJ environment
+4) Be publically accessible.
 
-Specific requirements to be referenced here are:
-1) Pipeline is in the form of a macro, script, or ImageJ/FIJI plugin
-2) Operates within the FIJI/ImageJ environment
-
-Specific requirements to be distributed here are:
+Software distributed here must
 1) Software is licensed appropriately
 2) Software is open-source
 
@@ -28,16 +28,26 @@ Specific requirements to be distributed here are:
 
 | Pipeline Name | Description | Source | Citation | License |
 |---------------|-------------|--------|----------|---------|
-| MyoSight | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
-| MuscleJ    | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
-| MuscleJ2    | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
+| MyoSight | End-to-End pipeline, providing | [MyoSight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7667765/) | Babcock et al., 2020, [DOI](#) | License type: Unrestricted use, CC0 as per journal |
+| MuscleJ2    | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) |  License type: Unrestricted use, CC0 as per journal |
 | TrueFAD | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
+| MuscleJ    | Open-source, numerous muscle measurements (Deprecated for MuscleJ2)  | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
 | Open-CSAM | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
 | MyoSAT | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
 | Tyagi | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
 | Bonilla | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
 | MyoSAT | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
 | LabelsToROIs | Brief description of the pipeline. | [Link to source](#) | Author(s), Year, [DOI](#) | License type |
+
+Abbreviations:
+FT: Skeletal Muscle Fiber-Typing
+CN: Central Nucleation
+PN: Peri Nucleation
+CSA: Cross-sectional Area
+FER: Feret
+CAP: Capillaries Measurement
+SAT: Satellite Cells
+VES: Vessel Identification
 
 ## Contributing
 
