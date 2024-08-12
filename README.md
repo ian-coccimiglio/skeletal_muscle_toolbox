@@ -16,6 +16,11 @@ The main goal is to provide all the plugins in one repository, such that users c
 
 If you DO use any of the tools in this toolbox, remember to cite the original author using the table below!
 
+## Usage
+To install the whole toolbox, simply download the latest release Skeletal_Muscle_Toolbox.jar file into your Fiji.app/jars/ directory. After Fiji is restarted, all pipelines should be available under a single submenu in the Plugins dropdown (and discoverable via the Command Finder).
+
+Alternatively, follow the links in the pipelines below to get retrieve just one pipeline.
+
 ## Pipelines
 
 | Pipeline Name and Publication | Description | Source-code | Citation + DOI | License | Distributed with Skeletal Muscle Toolbox | 
