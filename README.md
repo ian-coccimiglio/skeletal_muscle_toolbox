@@ -14,6 +14,8 @@ This repository consolidates various skeletal muscle imaging pipelines from publ
 
 This resource serves to gather, distribute, and document pipelines amd tools relating to skeletal muscle imaging, particularly those that operate within FIJI and ImageJ.
 
+If you use any of the tools in this toolbox, remember to cite the original author using the table below!
+
 ## Pipelines
 
 | Pipeline Name and Publication | Description | Source | Citation | License |
