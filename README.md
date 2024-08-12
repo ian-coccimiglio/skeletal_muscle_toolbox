@@ -1,5 +1,5 @@
-# Skeletal Muscle Imaging Tools
-Distributing tools for scientific skeletal muscle imaging in ImageJ and Fiji.
+# Skeletal Muscle Imaging Toolbox
+Distributing tools and pipelines for scientific skeletal muscle imaging in ImageJ and Fiji.
 
 ## Table of Contents
 
@@ -10,11 +10,11 @@ Distributing tools for scientific skeletal muscle imaging in ImageJ and Fiji.
 
 ## Introduction
 
-This resource serves to gather, distribute, and document pipelines amd tools relating to skeletal muscle imaging, particularly those that operate within FIJI and ImageJ.
+This resource serves to collect, distribute, and document pipelines and tools relating to skeletal muscle imaging, particularly those that operate within FIJI and ImageJ.
 
-The main goal is to provide all the plugins in one repository, such that users can download all or part of them.
+The main goal is to provide all the plugins in one repository, such that users can easily find and use them. If this proves to be helpful, it can be turned into an ImageJ Update Site.
 
-If you use any of the tools in this toolbox, remember to cite the original author using the table below!
+If you DO use any of the tools in this toolbox, remember to cite the original author using the table below!
 
 ## Pipelines
 
@@ -46,6 +46,8 @@ If you use any of the tools in this toolbox, remember to cite the original autho
 | Fernandez              |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
 | MuscleJ                |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
 | Bonilla                |&#9744; |&#9744; |&#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
+
+*If the plugin has no name, the first authors surname was used as an identifier. 
 
 Abbreviations:
 - FT   : Provides Fiber-Typing
