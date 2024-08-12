@@ -27,7 +27,22 @@ This resource serves to gather, distribute, and document pipelines amd tools rel
 | [Open-CSAM](https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-018-0186-6) | Semi-automatic ImageJ processing macro | [PDF Download](https://static-content.springer.com/esm/art%3A10.1186%2Fs13395-018-0186-6/MediaObjects/13395_2018_186_MOESM1_ESM.pdf) | Desgeorges et al., 2019, [DOI](https://doi.org/10.1186/s13395-018-0186-6) | Unrestricted use, CC-BY-4.0 as per journal |
 | [Fernandez](https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-019-0200-7#citeas) | Fiber Morphometry and Fiber-Type of Human Skeletal Muscle. | [IJM](https://static-content.springer.com/esm/art%3A10.1186%2Fs13395-019-0200-7/MediaObjects/13395_2019_200_MOESM2_ESM.txt) | Reyes-Fernandez et al., 2019, [DOI](https://doi.org/10.1186/s13395-019-0200-7) | CC0 as per journal |
 | [MuscleJ](https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-018-0171-0)    | Open-source automatic pipeline (Deprecated for MuscleJ2)  | [GitHub](https://github.com/ADanckaert/MuscleJ) | Mayeuf-Louchart et al., 2018, [DOI](https://doi.org/10.1186/s13395-018-0171-0) | [GPL3](https://github.com/ADanckaert/MuscleJ/blob/master/License.txt) | 
-| [Bonilla](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732929/) | A heavily modified version of MuscleJ for human skeletal muscle. | [IJM 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732929/bin/11357_2020_266_MOESM4_ESM.ijm) & [IJM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732929/bin/11357_2020_266_MOESM5_ESM.ijm) | Bonilla et al., 2018, [DOI](https://doi.org/10.1007%2Fs11357-020-00266-1) | GPL3 |
+| [Bonilla](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732929/) | A heavily modified version of MuscleJ for human skeletal muscle. | [IJM 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732929/bin/11357_2020_266_MOESM4_ESM.ijm) & [IJM 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732929/bin/11357_2020_266_MOESM5_ESM.ijm) | Bonilla et al., 2018, [DOI](https://doi.org/10.1007%2Fs11357-020-00266-1) | GPL3 |
+
+## Pipeline Feature Comparison
+
+| Feature                | FT | CN | PN | CSA | FER | CAP | SAT | VES |
+|------------------------|----|----|----|-----|-----|-----|-----|-----|
+| TrueFAD                |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| MuscleJ2               |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| LabelsToROIs           |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| MyoSight               |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| MyoSOFT                |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| MyoSAT                 |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Open-CSAM              |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Fernandez              |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| MuscleJ                |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Bonilla                |[ ] |[ ] |[ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 Abbreviations:
 FT: Skeletal Muscle Fiber-Typing
